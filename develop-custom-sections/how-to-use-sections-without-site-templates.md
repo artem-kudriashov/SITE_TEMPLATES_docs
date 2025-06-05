@@ -12,19 +12,19 @@ layout:
     visible: true
 ---
 
-# How to use sections without templates
+# How to use sections without Site templates
 
-Any page on any Ecwid website is built from **sections**. When you create a Site template, you basically build a couple of custom sections and then arrange default and custom sections in the template file. &#x20;
+Any page on any Ecwid website is built from **sections**. When you create a Site template, you basically build a one-column page couple from **Custom sections** whose order is specified in the template file. &#x20;
 
 However, custom sections can be used on their own, without a template, thus allowing you to add new functionality and enhance the website's look without rebuilding it from scratch.&#x20;
 
-### Create a project with sections without templates&#x20;
+### Create a project with sections without Site templates&#x20;
 
 When you start working on a site customization project, you can skip importing template files. In that case, all custom sections will become available in the Editor.
 
-Find detailed instructions in the [Quickstart guide for building sections](quickstart-with-custom-sections-without-building-a-template.md).
+Find detailed instructions in the [Quickstart guide for building sections](quickstart-with-custom-sections-without-building-site-templates.md).
 
-### Use custom sections in the Editor
+### Use Custom sections in the Editor
 
 When your project doesn't have template files, its custom sections can be freely used in the website editor.
 
@@ -96,4 +96,4 @@ We recommend getting an Ecwid-built example section and using it to learn all th
 
 Now that you know how custom sections can work without templates, jump into building your own sections:
 
-[quickstart-with-custom-sections-without-building-a-template.md](quickstart-with-custom-sections-without-building-a-template.md "mention")
+[quickstart-with-custom-sections-without-building-site-templates.md](quickstart-with-custom-sections-without-building-site-templates.md "mention")
