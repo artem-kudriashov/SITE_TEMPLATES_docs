@@ -10,7 +10,7 @@ Crane includes CLI (command line interface) and IDE features that help with crea
 
 ### CLI commands
 
-You can initialize, build, and deploy templates with the command line. Find a detailed guide for their usage in the [**Quickstart**](ref:quickstart-guide-to-a-working-template).
+You can initialize, build, and deploy templates with the command line. Find a detailed guide for their usage in the [**Quickstart**](quickstart-guide-to-a-working-site-template.md).
 
 `init` command initializes the project in your local environment and downloads code examples. It requires two arguments: `type` and `name`.
 
