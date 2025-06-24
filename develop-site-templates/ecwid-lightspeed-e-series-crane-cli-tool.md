@@ -14,7 +14,7 @@ You can initialize, build, and deploy templates with the command line. Find a de
 
 `init` command initializes the project in your local environment and downloads code examples. It requires two arguments: `type` and `name`.
 
-The `type` argument is one of the `-- app`, `--section`, or `--template`.
+The `type` argument is one of the `--app`, `--section`, or `--template`.
 
 Code example:
 
