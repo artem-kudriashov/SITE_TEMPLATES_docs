@@ -1,30 +1,30 @@
 # Table of contents
 
-* [Introduction to Site templates development](README.md)
-* [Site templates glossary](site-templates-glossary.md)
+* [Introduction to Site themes development](README.md)
+* [Site themes glossary](site-themes-glossary.md)
 
-## Develop Site templates
+## Develop Site themes
 
-* [Quickstart guide to a working Site template](develop-site-templates/quickstart-guide-to-a-working-site-template.md)
-* [Ecwid (Lightspeed E-Series) Crane CLI tool](develop-site-templates/ecwid-lightspeed-e-series-crane-cli-tool.md)
-* [Build Site templates: Project structure](develop-site-templates/build-site-templates-project-structure/README.md)
-  * [template-name.ts](develop-site-templates/build-site-templates-project-structure/template-name.ts.md)
-  * [section-name.vue](develop-site-templates/build-site-templates-project-structure/section-name.vue.md)
-  * [content.ts](develop-site-templates/build-site-templates-project-structure/content.ts.md)
-  * [design.ts](develop-site-templates/build-site-templates-project-structure/design.ts.md)
-  * [design.ts (additional)](develop-site-templates/build-site-templates-project-structure/design.ts-additional.md)
-  * [showcases/1.ts](develop-site-templates/build-site-templates-project-structure/showcases-1.ts.md)
-  * [translations.ts](develop-site-templates/build-site-templates-project-structure/translations.ts.md)
-  * [layout.ts](develop-site-templates/build-site-templates-project-structure/layout.ts.md)
+* [Quickstart guide to a working Site theme](develop-site-themes/quickstart-guide-to-a-working-site-theme.md)
+* [Ecwid (Lightspeed E-Series) Crane CLI tool](develop-site-themes/ecwid-lightspeed-e-series-crane-cli-tool.md)
+* [Build Site themes: Project structure](develop-site-themes/build-site-themes-project-structure/README.md)
+  * [template-name.ts](develop-site-themes/build-site-themes-project-structure/template-name.ts.md)
+  * [section-name.vue](develop-site-themes/build-site-themes-project-structure/section-name.vue.md)
+  * [content.ts](develop-site-themes/build-site-themes-project-structure/content.ts.md)
+  * [design.ts](develop-site-themes/build-site-themes-project-structure/design.ts.md)
+  * [design.ts (additional)](develop-site-themes/build-site-themes-project-structure/design.ts-additional.md)
+  * [showcases/1.ts](develop-site-themes/build-site-themes-project-structure/showcases-1.ts.md)
+  * [translations.ts](develop-site-themes/build-site-themes-project-structure/translations.ts.md)
+  * [layout.ts](develop-site-themes/build-site-themes-project-structure/layout.ts.md)
 
-## Launch Site templates
+## Launch Site themes
 
-* [Step-by-step publishing guide for Site templates](launch-site-templates/step-by-step-publishing-guide-for-site-templates.md)
-* [Monetize Site templates](launch-site-templates/monetize-site-templates.md)
-* [Requirements for public Site templates](launch-site-templates/requirements-for-public-site-templates.md)
-* [Recommendations for building public Site templates](launch-site-templates/recommendations-for-building-public-site-templates.md)
+* [Step-by-step publishing guide for Site themes](launch-site-themes/step-by-step-publishing-guide-for-site-themes.md)
+* [Monetize Site themes](launch-site-themes/monetize-site-themes.md)
+* [Requirements for public Site themes](launch-site-themes/requirements-for-public-site-themes.md)
+* [Recommendations for building public Site themes](launch-site-themes/recommendations-for-building-public-site-themes.md)
 
 ## Develop custom sections
 
-* [How to use sections without Site templates](develop-custom-sections/how-to-use-sections-without-site-templates.md)
-* [Quickstart with custom sections without building Site templates](develop-custom-sections/quickstart-with-custom-sections-without-building-site-templates.md)
+* [How to use sections without Site themes](develop-custom-sections/how-to-use-sections-without-site-themes.md)
+* [Quickstart with custom sections without building Site themes](develop-custom-sections/quickstart-with-custom-sections-without-building-site-themes.md)

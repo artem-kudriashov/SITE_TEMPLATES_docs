@@ -1,6 +1,6 @@
-# Quickstart with custom sections without building a template
+# Quickstart with custom sections without building Site themes
 
-**Custom section** is a building block of the website page created by you or your developer. Sections are not limited in their content and therefore can cover any functionality. You can develop and publish sections without building fully functional templates as long as each of your sections has a completed style and functionality.
+**Custom section** is a building block of the website page created by you or your developer. Sections are not limited in their content and therefore can cover any functionality. You can develop and publish sections without building fully functional themes as long as each of your sections has a completed style and functionality.
 
 Sections are based on **Typescript** language and its **Vue** framework. You need proper knowledge of TypeScript to uncover the full potential of the feature.
 
@@ -41,7 +41,7 @@ We recommend using **Node.js LTS version 22** to ensure stability and avoid comp
 
 ### Step 5. Start a local project with the Crane tool
 
-**Crane** is a CLI tool for developing Site sections. [**Learn more about the Crane tool**](../develop-site-templates/ecwid-lightspeed-e-series-crane-cli-tool.md)
+**Crane** is a CLI tool for developing Site sections. [**Learn more about the Crane tool**](../develop-site-themes/ecwid-lightspeed-e-series-crane-cli-tool.md)
 
 With Crane, you can get a section code working locally and control its deployment with CLI. Use the following commands to set up a project folder, install all dependencies, and get the example section code.
 
@@ -85,7 +85,7 @@ Now you have a project folder with all the required files and modules to start s
 
 ### Step 6. Set up a project in IDE
 
-We recommend using the free [**VS Code**](https://code.visualstudio.com/download) application with **Vue** and **TypeScript** extensions. Open the project folder there and check the file structure inside. [**Learn more about the structure**](../develop-site-templates/build-site-templates-project-structure/)
+We recommend using the free [**VS Code**](https://code.visualstudio.com/download) application with **Vue** and **TypeScript** extensions. Open the project folder there and check the file structure inside. [**Learn more about the structure**](../develop-site-themes/build-site-themes-project-structure/)
 
 First, you need to set up the `crane.config.json` file, it will connect the sections you build locally with the application on Ecwid side. Open the file and copy the `client_id` and `client_secret` from your custom application to the file. Find these values at the bottom of the [**Ecwid admin > #develop-apps > Details**](https://my.ecwid.com/#develop-apps) page.
 

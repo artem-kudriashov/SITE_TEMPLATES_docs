@@ -1,40 +1,26 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# How to use sections without Site themes
 
-# How to use sections without Site templates
+Any page on any Ecwid website is built from **sections**. When you create a Site themes, you basically build a one-column page couple from **Custom sections** whose order is specified in the theme file. &#x20;
 
-Any page on any Ecwid website is built from **sections**. When you create a Site template, you basically build a one-column page couple from **Custom sections** whose order is specified in the template file. &#x20;
+However, custom sections can be used on their own, without a theme, thus allowing you to add new functionality and enhance the website's look without rebuilding it from scratch.&#x20;
 
-However, custom sections can be used on their own, without a template, thus allowing you to add new functionality and enhance the website's look without rebuilding it from scratch.&#x20;
+### Create a project with sections without Site themes&#x20;
 
-### Create a project with sections without Site templates&#x20;
+When you start working on a site customization project, you can skip importing theme files. In that case, all custom sections will become available in the Editor.
 
-When you start working on a site customization project, you can skip importing template files. In that case, all custom sections will become available in the Editor.
-
-Find detailed instructions in the [Quickstart guide for building sections](quickstart-with-custom-sections-without-building-site-templates.md).
+Find detailed instructions in the [Quickstart guide for building sections](quickstart-with-custom-sections-without-building-site-themes.md).
 
 ### Use Custom sections in the Editor
 
-When your project doesn't have template files, its custom sections can be freely used in the website editor.
+When your project doesn't have theme files, its custom sections can be freely used in the website editor.
 
 To see all available custom sections, in the editor, click <kbd>**+ Add section**</kbd>**,** then click on the **Sections from App Market** in the left menu:
 
 <figure><img src="../.gitbook/assets/custom_sections_editor.png" alt=""><figcaption></figcaption></figure>
 
-Custom sections, when built without a template, are always available in the editor, even if a user applied a custom Site template.
+Custom sections, when built without a theme, are always available in the editor, even if a user applied a custom Site theme.
 
-### Learn project structure without templates
+### Learn project structure without themes
 
 The diagram below shows the folder structure of a project with one custom section:
 
@@ -94,6 +80,4 @@ We recommend getting an Ecwid-built example section and using it to learn all th
 
 ### Start building sections
 
-Now that you know how custom sections can work without templates, jump into building your own sections:
-
-[quickstart-with-custom-sections-without-building-site-templates.md](quickstart-with-custom-sections-without-building-site-templates.md "mention")
+Now that you know how custom sections can work without theme, jump into building your own sections: [quickstart-with-custom-sections-without-building-site-themes.md](quickstart-with-custom-sections-without-building-site-themes.md "mention")

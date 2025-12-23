@@ -1,4 +1,4 @@
-# Site templates glossary
+# Site themes glossary
 
 **Instant Site**\
 Website builder created by Ecwid that allows creating for both ecommerce and non-ecommerce sites.
@@ -17,13 +17,13 @@ A one-for-all tool, where users can manage all aspects of their store: products,
 
 
 
-**Site template**\
+**Site theme**\
 A pre-defined configuration for the website that includes design and content settings, overall style, and even custom widgets that extend the store functionality.
 
 
 
-**Template file**\
-A `template-name.ts` file inside the `templates` folder that contains the custom sections – building blocks for the website – with different demo data and default values.
+**Theme file**\
+A `theme-name.ts` file inside the `themes` folder that contains the custom sections – building blocks for the website – with different demo data and default values.
 
 
 
