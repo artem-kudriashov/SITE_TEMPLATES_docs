@@ -8,16 +8,13 @@ Sections are built locally and then deployed to the Ecwid environment. After dep
 
 ### Step 1. Sign up with Ecwid
 
-You need a store on any paid plan to start working with sections. [**Sign up with Ecwid**](https://my.ecwid.com/)
+To work with sections and themes, you need a store and API access.
 
-We will provide you with a free test store with API access if you:
+Start your journey by submitting a new dev form from the following link: [https://portal.ecwid.com/en-us/app-market-request](https://portal.ecwid.com/en-us/app-market-request).
 
-* Work on a Site customization for one of our clients.
-* Want to develop a public section for Ecwid.
+Specify that you are working on a theme, leave some contact details, and share some of your existing projects/apps here. Our App team will review the form shortly and contact you by email to give a **free test store with API access**.&#x20;
 
-[**Email us**](mailto:ec.apps@lightspeedhq.com) to get a test store.
-
-To customize your working store, build sections in a local environment and test them inside the website Editor without applying any changes. Preview mode in the editor allows it.
+Feel free to [email us](mailto:ec.apps@lightspeedhq.com) anytime.
 
 ### Step 2. Set up an application
 
