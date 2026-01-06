@@ -14,8 +14,8 @@ The `type` argument is one of the `--app`, `--section`, or `--template`.
 
 Code example:
 
-```
-npx @lightspeed/crane@latest init --app <name>
+```bash
+npx @lightspeed/crane@latest init --app _name_ 'change _name_ with your name for app/section/theme'
 ```
 
 * `build` command compiles the project in your local environment. It doesn’t apply any changes to the project version deployed to Ecwid and should always be used in combination with the `deploy` command.
@@ -23,7 +23,7 @@ npx @lightspeed/crane@latest init --app <name>
 
 Code example:
 
-```
+```bash
 npx @lightspeed/crane@latest build
 npx @lightspeed/crane@latest deploy
 ```

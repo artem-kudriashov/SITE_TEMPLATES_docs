@@ -50,9 +50,9 @@ With Crane, you can run sections locally and control their deployment with CLI. 
 * Create a project folder, go into it, and install dependencies:
 
 ```sh
-mkdir my-theme-project // create the project
-cd my-theme-project // go inside the project
-npm install vite vue sass @lightspeed/crane@latest @lightspeed/eslint-config-crane@latest
+mkdir my-theme-project  'create the project'
+cd my-theme-project  'go inside the project'
+npm install vite vue sass @lightspeed/crane@latest @lightspeed/eslint-config-crane@latest  'install dependencies'
 ```
 
 * Initialize a new app inside the project folder:
@@ -65,7 +65,7 @@ npx @lightspeed/crane@latest init --app my-app
 
 ```sh
 cd my-app // go inside the app
-npx @lightspeed/crane@latest init --section my-section
+npx @lightspeed/crane@latest init --section my-section  'name section however you want'
 ```
 
 Now you are ready to start developing a section.
@@ -94,13 +94,13 @@ Before deploying, make sure your application is installed in the Ecwid admin. Go
 Once you are ready to check how your code works in the store, use the following commands:
 
 ```sh
-cd ~/{proj_folder}/my-app  //make sure you run commands from your app folder 
+cd ~/{proj_folder}/my-app  'make sure you run commands from your app folder[' 
 
-npx @lightspeed/crane@latest preview  //preview
+npx @lightspeed/crane@latest preview  'preview'
 
-npx @lightspeed/crane@latest build  //compile locally
+npx @lightspeed/crane@latest build  'compile locally'
 
-npx @lightspeed/crane@latest deploy  //upload section code to Ecwid
+npx @lightspeed/crane@latest deploy  'upload section code to Ecwid'
 ```
 
 You should see a success message in CLI. [**Email us**](mailto:ec.apps@lightspeedhq.com) with details about your application and store if you have any errors in this step.

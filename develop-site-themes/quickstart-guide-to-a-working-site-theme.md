@@ -48,9 +48,9 @@ With Crane, you can run themes locally and control their deployment with CLI. Us
 * Create a project folder, go into it, and install dependencies:
 
 ```sh
-mkdir my-theme-project // create the project
-cd my-theme-project // go inside the project
-npm install vite vue sass @lightspeed/crane@latest @lightspeed/eslint-config-crane@latest
+mkdir my-theme-project  'create the project'
+cd my-theme-project  'go inside the project'
+npm install vite vue sass @lightspeed/crane@latest @lightspeed/eslint-config-crane@latest  'install dependencies'
 ```
 
 * Initialize a new app inside the project folder:
@@ -63,13 +63,13 @@ npx @lightspeed/crane@latest init --app my-app
 
 ```sh
 cd my-app // go inside the app
-npx @lightspeed/crane@latest init --template example-template // name it however you want
+npx @lightspeed/crane@latest init --template example-template  'name it however you want'
 ```
 
 * Initialize the example section code:
 
 ```sh
-npx @lightspeed/crane@latest init --section my-section
+npx @lightspeed/crane@latest init --section my-section  'name it however you want'
 ```
 
 Now you have a project folder with all the required files and modules to start theme development.
@@ -84,8 +84,8 @@ After the changes, your file should look like this:
 
 ```json
 {
-    "app_client_id": "client_id", //replace with client_id from your app settings
-    "app_secret_key": "client_secret" //replace with client_secret from your app settings
+    "app_client_id": "client_id",  //replace with client_id from your app settings
+    "app_secret_key": "client_secret"  //replace with client_secret from your app settings
 }
 ```
 
@@ -98,13 +98,13 @@ Before deploying, make sure your application is installed in the Ecwid admin. Go
 Once you are ready to check how your code works in the store, use the following commands:
 
 ```sh
-cd ~/{proj_folder}/my-app  //make sure you run commands from your app folder 
+cd ~/{proj_folder}/my-app  'make sure you run commands from your app folder' 
 
-npx @lightspeed/crane@latest preview  //preview
+npx @lightspeed/crane@latest preview  'preview'
 
-npx @lightspeed/crane@latest build  //compile locally
+npx @lightspeed/crane@latest build  'compile locally'
 
-npx @lightspeed/crane@latest deploy  //upload section code to Ecwid
+npx @lightspeed/crane@latest deploy  'upload section code to Ecwid'
 ```
 
 You should see a success message in CLI. [**Email us**](mailto:ec.apps@lightspeedhq.com) with details about your application and store if you have any errors in this step.
