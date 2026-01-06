@@ -64,7 +64,7 @@ npx @lightspeed/crane@latest init --app my-app
 * Go to the app folder and initialize a new section:
 
 ```sh
-cd my-app // go inside the app
+cd my-app  'go inside the app'
 npx @lightspeed/crane@latest init --section my-section  'name section however you want'
 ```
 

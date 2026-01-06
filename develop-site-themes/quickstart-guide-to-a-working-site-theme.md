@@ -62,7 +62,7 @@ npx @lightspeed/crane@latest init --app my-app
 * Go to the app folder, initialize the theme template code:
 
 ```sh
-cd my-app // go inside the app
+cd my-app  'go inside the app'
 npx @lightspeed/crane@latest init --template example-template  'name it however you want'
 ```
 
