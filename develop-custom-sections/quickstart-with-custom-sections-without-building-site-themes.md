@@ -80,8 +80,8 @@ After the changes, your file should look like this:
 
 ```json
 {
-    "app_client_id": "custom-app-1003-1",
-    "app_secret_key": "HHLmjx1NQropDPrC5Uzx2BMoUQo4esEmr"
+    "app_client_id": "client_id", //replace with client_id from your app settings
+    "app_secret_key": "client_secret" //replace with client_secret from your app settings
 }
 ```
 
