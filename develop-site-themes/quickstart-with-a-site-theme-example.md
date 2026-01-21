@@ -1,4 +1,4 @@
-# Quickstart guide to a working Site theme
+# Quickstart with a Site theme example
 
 In the following guide, you’ll start by signing up with Ecwid and will end up with a fully working Site theme code deployed to your test store.
 
@@ -16,34 +16,29 @@ Feel free to [email us](mailto:ec.apps@lightspeedhq.com) anytime.
 
 ### Step 2. Set up an application
 
-Working with Site themes requires authorization and access to Ecwid API. We have a platform called **application** where you can configure permissions called access scopes and authorize different APIs. A private application that gives access to your store API only is called a **custom application**.
+Working with Site themes requires authorization and access to Ecwid API. A platform called Ecwid **application** allows you to configure permissions called **access scopes** and authorize different APIs.
 
-Get up a custom app right from your Ecwid admin on the [app dashboard](https://my.ecwid.com/#develop-apps).
+A private application with API access to your store data is called a **custom application**. Get a custom app right from your Ecwid admin on the [app dashboard](https://my.ecwid.com/#develop-apps).
 
-### Step 3. Get access scope
+### Step 3. Get access scopes
 
-With the app, you can access store data with API. However, you need to request additional permissions to build Site themes: `add_custom_blocks` and `add_custom_templates`.
+Default apps allow partial API access. However, to develop themes, the app needs additional permissions: `add_custom_blocks` and `add_custom_templates`.
 
-[Email us](mailto:ec.apps@lightspeedhq.com) with your application name or _client\_id_ and required access scopes, so we can update the app for you.
+App settings can only be changed on our side. Contact Ecwid API team, and we'll update your app in a business day or less!
 
-### Step 4. Initialize project files
+{% content-ref url="https://app.gitbook.com/s/uOzT5egoVTAjMJwRuMQT/contact-ecwid-api-support-team" %}
+[Contact Ecwid API support team](https://app.gitbook.com/s/uOzT5egoVTAjMJwRuMQT/contact-ecwid-api-support-team)
+{% endcontent-ref %}
 
-Use CLI (Command Line Interface) to deploy the theme code to Ecwid. If your CLI doesn't yet support `npm`/`npx` commands, install the required package from the Node.js official website.
+### Step 4. Initialize project files with Crane tool
 
-Please make sure that your local node version matches the minimum version required by the `crane` tool. Check the node and npm version by running the following commands:
-
-```sh
-node -v
-npm -v
-```
+Before diving into the Crane tool and setting up an example theme, you need to install **Node.js:** [**https://nodejs.org/en/download**](https://nodejs.org/en/download)
 
 {% hint style="success" %}
 We recommend using **Node.js LTS version 22+** to ensure stability and avoid compatibility issues.
 {% endhint %}
 
-**Crane** is a CLI tool for developing Site themes. Learn more about the Crane tool
-
-With Crane, you can run themes locally and control their deployment with CLI. Use the following commands to start your project:
+**Crane** is a CLI tool that allows you to build Site themes on a local machine and easily deploy them to Ecwid. Use the following commands to start your project:
 
 * Create a project folder, go into it, and install dependencies:
 

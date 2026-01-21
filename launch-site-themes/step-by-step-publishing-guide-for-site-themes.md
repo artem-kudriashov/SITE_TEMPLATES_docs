@@ -22,7 +22,7 @@ Then API Support team will provide you with the dev app and a free premium plan 
 
 Now you can start working on the project.
 
-Set up a fully working theme in your store with our [Quickstart guide](../develop-site-themes/quickstart-guide-to-a-working-site-theme.md). From this point, you have full control over the theme code and check any changes live in the Instant Site Editor – a website editor tool integrated into Ecwid store admin.
+Set up a fully working theme in your store with our [Quickstart guide](../develop-site-themes/quickstart-with-a-site-theme-example.md). From this point, you have full control over the theme code and check any changes live in the Instant Site Editor – a website editor tool integrated into Ecwid store admin.
 
 ### Check your app before submission
 

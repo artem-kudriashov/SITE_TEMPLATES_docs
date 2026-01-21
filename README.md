@@ -4,7 +4,7 @@ With Ecwid, you can build a website tailored to your business needs, whether or 
 
 If you want to customize your website even more, you can use dev tools to build **Site themes** or **Custom sections:**
 
-* **Site themes** allow you to completely overhaul your website's look and feel. Or even offer website designs to all Instant Site users through the theme market. Get started easily with the [quickstart-guide-to-a-working-site-theme.md](develop-site-themes/quickstart-guide-to-a-working-site-theme.md "mention")
+* **Site themes** allow you to completely overhaul your website's look and feel. Or even offer website designs to all Instant Site users through the theme market. Get started easily with the [quickstart-with-a-site-theme-example.md](develop-site-themes/quickstart-with-a-site-theme-example.md "mention")
 * **Custom sections** are building blocks for any Instant Site page. They can be used as a part of a Site theme or as a standalone customization, for example, an animated product promo card. Learn [how-to-use-sections-without-site-themes.md](develop-custom-sections/how-to-use-sections-without-site-themes.md "mention")
 
 Incorporate any features and designs into templates, focusing on specific business niches or use cases. For example, add custom widgets, third-party integrations, and unique layouts that are unavailable within the default functionality.

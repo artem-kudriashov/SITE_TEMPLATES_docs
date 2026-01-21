@@ -19,7 +19,7 @@ You can build a Site theme and offer it on a paid basis. Ecwid billing allows yo
 
 Once a theme is published, it becomes available in the website builder, where clients can see the theme preview and its price. If they decide to install your theme, Ecwid will offer a 14-day trial period after which a merchant will be charged for it.
 
-Want to start selling your Site themes? Jump into the [quickstart-guide-to-a-working-site-theme.md](../develop-site-themes/quickstart-guide-to-a-working-site-theme.md "mention")
+Want to start selling your Site themes? Jump into the [quickstart-with-a-site-theme-example.md](../develop-site-themes/quickstart-with-a-site-theme-example.md "mention")
 
 The billing process is fully automated on our side, so you don’t need to build any kind of billing system. Before going live, you’ll set a monthly price for your Site theme in the publishing form:
 

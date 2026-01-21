@@ -5,8 +5,8 @@
 
 ## Develop Site themes
 
-* [Quickstart guide to a working Site theme](develop-site-themes/quickstart-guide-to-a-working-site-theme.md)
-* [Ecwid (Lightspeed E-Series) Crane CLI tool](develop-site-themes/ecwid-lightspeed-e-series-crane-cli-tool.md)
+* [Quickstart with a Site theme example](develop-site-themes/quickstart-with-a-site-theme-example.md)
+* [Deep dive into theme project structure](develop-site-themes/deep-dive-into-theme-project-structure.md)
 * [Build Site themes: Project structure](develop-site-themes/build-site-themes-project-structure/README.md)
   * [template-name.ts](develop-site-themes/build-site-themes-project-structure/template-name.ts.md)
   * [section-name.vue](develop-site-themes/build-site-themes-project-structure/section-name.vue.md)
