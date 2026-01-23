@@ -107,8 +107,8 @@ Now you can find your custom theme in the website Editor in your Ecwid admin. Go
 
 Learn more about project structure and launching themes:
 
-{% content-ref url="build-site-themes-project-structure/" %}
-[build-site-themes-project-structure](build-site-themes-project-structure/)
+{% content-ref url="deep-dive-into-theme-project-structure/" %}
+[deep-dive-into-theme-project-structure](deep-dive-into-theme-project-structure/)
 {% endcontent-ref %}
 
 {% content-ref url="/broken/pages/2v05Nufe5t3VYzcP8NqB" %}

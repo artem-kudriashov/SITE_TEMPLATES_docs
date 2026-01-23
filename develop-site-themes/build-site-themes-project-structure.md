@@ -1,8 +1,12 @@
+---
+hidden: true
+---
+
 # Build Site themes: Project structure
 
 **Instant Site theme** is an arranged list of building blocks called **sections** that determine the overall style, content, and features of the Instant Site.
 
-<figure><img src="../../.gitbook/assets/e8aead5183c11cb80febfaa06e23564d3d9443e17ba30892c825d319a8b25696-Annotation_on_2024-10-10_at_12-23-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/e8aead5183c11cb80febfaa06e23564d3d9443e17ba30892c825d319a8b25696-Annotation_on_2024-10-10_at_12-23-13.png" alt=""><figcaption></figcaption></figure>
 
 Themes don’t have any content or design settings of their own. Instead, they utilize **custom sections** where developers can put any HTML/JavaScript code, define content and design settings available to users, and create showcases.
 
@@ -36,7 +40,7 @@ Here is the example structure with all mandatory files:
 
 ```
 
-<figure><img src="../../.gitbook/assets/crane_project_structure.png" alt=""><figcaption><p>Visualization of the theme project structure</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/crane_project_structure.png" alt=""><figcaption><p>Visualization of the theme project structure</p></figcaption></figure>
 
 
 

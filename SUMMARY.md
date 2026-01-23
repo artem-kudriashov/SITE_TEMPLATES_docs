@@ -6,16 +6,16 @@
 ## Develop Site themes
 
 * [Quickstart with a Site theme example](develop-site-themes/quickstart-with-a-site-theme-example.md)
-* [Deep dive into theme project structure](develop-site-themes/deep-dive-into-theme-project-structure.md)
-* [Build Site themes: Project structure](develop-site-themes/build-site-themes-project-structure/README.md)
-  * [template-name.ts](develop-site-themes/build-site-themes-project-structure/template-name.ts.md)
-  * [section-name.vue](develop-site-themes/build-site-themes-project-structure/section-name.vue.md)
-  * [content.ts](develop-site-themes/build-site-themes-project-structure/content.ts.md)
-  * [design.ts](develop-site-themes/build-site-themes-project-structure/design.ts.md)
-  * [design.ts (additional)](develop-site-themes/build-site-themes-project-structure/design.ts-additional.md)
-  * [showcases/1.ts](develop-site-themes/build-site-themes-project-structure/showcases-1.ts.md)
-  * [translations.ts](develop-site-themes/build-site-themes-project-structure/translations.ts.md)
-  * [layout.ts](develop-site-themes/build-site-themes-project-structure/layout.ts.md)
+* [Deep dive into theme project structure](develop-site-themes/deep-dive-into-theme-project-structure/README.md)
+  * [template-name.ts](develop-site-themes/deep-dive-into-theme-project-structure/template-name.ts.md)
+  * [section-name.vue](develop-site-themes/deep-dive-into-theme-project-structure/section-name.vue.md)
+  * [content.ts](develop-site-themes/deep-dive-into-theme-project-structure/content.ts.md)
+  * [design.ts](develop-site-themes/deep-dive-into-theme-project-structure/design.ts.md)
+  * [design.ts (additional)](develop-site-themes/deep-dive-into-theme-project-structure/design.ts-additional.md)
+  * [showcases/1.ts](develop-site-themes/deep-dive-into-theme-project-structure/showcases-1.ts.md)
+  * [translations.ts](develop-site-themes/deep-dive-into-theme-project-structure/translations.ts.md)
+  * [layout.ts](develop-site-themes/deep-dive-into-theme-project-structure/layout.ts.md)
+* [Build Site themes: Project structure](develop-site-themes/build-site-themes-project-structure.md)
 
 ## Launch Site themes
 

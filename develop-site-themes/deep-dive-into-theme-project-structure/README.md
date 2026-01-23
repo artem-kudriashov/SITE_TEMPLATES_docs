@@ -1,11 +1,7 @@
----
-hidden: true
----
-
 # Deep dive into theme project structure
 
 {% hint style="info" %}
-We **highly recommend** setting up a working example theme before jumping into this guide: [quickstart-with-a-site-theme-example.md](quickstart-with-a-site-theme-example.md "mention")
+We **highly recommend** setting up a working example theme before jumping into this guide: [quickstart-with-a-site-theme-example.md](../quickstart-with-a-site-theme-example.md "mention")
 {% endhint %}
 
 Congratulations on getting a working template example!&#x20;
@@ -43,25 +39,9 @@ You can find the following directories in any theme project:
 
 Now that the folders are covered, we can jump into specific files.
 
-### Project files that require dev attention
+### Learn main project files
 
-Any theme for Ecwid Instant Site technically is a combination of **sections**.
-
-Each section is a reusable UI block with its own set of user settings, storefront implementation, and showcases for the Section/Theme Markets built into the Ecwid admin.
-
-A typical section looks like this:
-
-```
-sections/my-section/
-├─ MySection.vue
-├─ client.ts
-├─server.ts
-├─type.ts
-├─ settings/
-├─ showcases/
-└─ assets/
-
-```
+The following files are included in basically any theme project, so it's important to understand what they do:
 
 #### - `MySection.vue`
 
@@ -87,8 +67,8 @@ Think of this file as a pure renderer. The configuration is already resolved whe
 
 Learn more about building section **Vue** files:
 
-{% content-ref url="build-site-themes-project-structure/section-name.vue.md" %}
-[section-name.vue.md](build-site-themes-project-structure/section-name.vue.md)
+{% content-ref url="section-name.vue.md" %}
+[section-name.vue.md](section-name.vue.md)
 {% endcontent-ref %}
 
 #### - `server.ts`
@@ -179,8 +159,8 @@ If some section content (like a text) is not declared as a setting here, it cann
 
 Learn more about available content settings:
 
-{% content-ref url="build-site-themes-project-structure/content.ts.md" %}
-[content.ts.md](build-site-themes-project-structure/content.ts.md)
+{% content-ref url="content.ts.md" %}
+[content.ts.md](content.ts.md)
 {% endcontent-ref %}
 
 #### - `settings/design.ts`
@@ -201,8 +181,8 @@ This exposes **design tokens**, not raw CSS.
 
 Learn more about available design settings:
 
-{% content-ref url="build-site-themes-project-structure/design.ts.md" %}
-[design.ts.md](build-site-themes-project-structure/design.ts.md)
+{% content-ref url="design.ts.md" %}
+[design.ts.md](design.ts.md)
 {% endcontent-ref %}
 
 #### - `settings/translations.ts`
@@ -220,8 +200,8 @@ All schema labels must be translated to all specified languages.
 
 Learn more about adding translations to section settings:
 
-{% content-ref url="build-site-themes-project-structure/translations.ts.md" %}
-[translations.ts.md](build-site-themes-project-structure/translations.ts.md)
+{% content-ref url="translations.ts.md" %}
+[translations.ts.md](translations.ts.md)
 {% endcontent-ref %}
 
 #### - `showcases/`
@@ -247,8 +227,8 @@ Showcases are **not defaults**. They are merely examples shown when users select
 
 Learn more about section showcases:
 
-{% content-ref url="build-site-themes-project-structure/showcases-1.ts.md" %}
-[showcases-1.ts.md](build-site-themes-project-structure/showcases-1.ts.md)
+{% content-ref url="showcases-1.ts.md" %}
+[showcases-1.ts.md](showcases-1.ts.md)
 {% endcontent-ref %}
 
 #### - `assets/`
@@ -325,3 +305,28 @@ my-theme-project/
 └── scripts/                           # DEVELOPER TOOLS
 ```
 
+### Project files that require dev attention
+
+Now that you know what specific folders and files do, you can start building your own sections and theme. And any theme technically is an ordered list of sections.
+
+Therefore, when starting from an example theme, we recommend building sections first. New sections should look like this:
+
+```
+sections/my-section/
+├─ MySection.vue
+├─ client.ts
+├─ server.ts
+├─ type.ts
+├─ settings/
+├─ showcases/
+└─ assets/
+```
+
+Use example sections as a carcass to develop the section you need:
+
+* Add new example sections with the `npx @lightspeed/crane@latest init --section section-name` CLI command.
+  * Build the main **Vue** file - add your content and design. Think about its content - what users should be able to change here.
+  * Define all settings that should be available to users in TypeScript files in the **/settings/** folder.&#x20;
+  * If you have any default images for section content or previews, put them in **/assets/** and **/showcases/** folders.
+* Build **TypeScript theme files** using both created sections and default sections.
+* Make sure all service files are still in place, then build and deploy theme to your dev store to check how it works.
