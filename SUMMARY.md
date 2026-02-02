@@ -24,6 +24,17 @@
 * [Requirements for public Site themes](launch-site-themes/requirements-for-public-site-themes.md)
 * [Recommendations for building public Site themes](launch-site-themes/recommendations-for-building-public-site-themes.md)
 
+## DEV Launch Site themes
+
+* [Step-by-step guide for building a theme design](dev-launch-site-themes/step-by-step-guide-for-building-a-theme-design.md)
+* [Technical guide for publishing Site themes](dev-launch-site-themes/technical-guide-for-publishing-site-themes.md)
+* [Monetize Site themes](dev-launch-site-themes/monetize-site-themes.md)
+* [Checklist for public Site themes](dev-launch-site-themes/checklist-for-public-site-themes.md)
+* [Resources](dev-launch-site-themes/resources/README.md)
+  * [Pattern Library](dev-launch-site-themes/resources/pattern-library.md)
+  * [Aesthetic Spectrum](dev-launch-site-themes/resources/aesthetic-spectrum.md)
+  * [Theme Quality Guidelines](dev-launch-site-themes/resources/theme-quality-guidelines.md)
+
 ## Develop custom sections
 
 * [How to use sections without Site themes](develop-custom-sections/how-to-use-sections-without-site-themes.md)
