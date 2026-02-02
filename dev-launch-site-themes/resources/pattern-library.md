@@ -8,7 +8,7 @@ Not to copy, but to inspire. Use this library to create your own unique style fo
 
 * to understand what makes each aesthetic spectrum feel authentic and modern,
 * to find visual approaches that fit a chosen spectrum,
-* to discover compositional tricks, typography styles, or layout structures that elevate templates,
+* to discover compositional tricks, typography styles, or layout structures that elevate themes,
 * to avoid outdated design solutions by using fresher, more relevant patterns.
 
 Review and utilise the patterns below to create themes that feel intentional, current, and competitive.&#x20;
@@ -107,7 +107,7 @@ Clean aesthetics convey:
 * sophistication
 * universal appeal
 
-This is why clean templates fit many verticals naturally.
+This is why clean themes fit many verticals naturally.
 
 Examples: [nestig.com](http://nestig.com/) ·[ springandmulberry.com](http://springandmulberry.com/) ·[ wearedancing.com](http://wearedancing.com/) ·[ ](http://velorahome.com/)[velorahome.com](http://velorahome.com)
 

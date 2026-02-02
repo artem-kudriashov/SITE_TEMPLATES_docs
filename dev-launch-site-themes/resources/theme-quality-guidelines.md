@@ -1,6 +1,6 @@
 # Theme Quality Guidelines
 
-This document defines quality standards for Instant Site themes. It helps creators and reviewers build themes that are:
+This document defines quality standards for creating truly successful Instant Site themes. If your themes follow all of these guidelines, they become:
 
 * **Easy for merchants to brand and customize**\
   Themes must adapt quickly to each merchant’s brand — often with only a logo, a preferred mood, or a few product photos. The system must make branding simple, even for merchants with no design experience.
@@ -14,7 +14,7 @@ This document defines quality standards for Instant Site themes. It helps creato
   Themes must integrate smoothly with our automated style mapping, palette system, and layout logic.
 
 {% hint style="info" %}
-[step-by-step-guide-for-building-a-theme-design.md](../step-by-step-guide-for-building-a-theme-design.md "mention")includes minimum requirements and redirects to this guideline whenever necessary.
+[step-by-step-guide-for-building-a-theme-design.md](../step-by-step-guide-for-building-a-theme-design.md "mention")includes minimum requirements for public themes and redirects to this guideline whenever necessary.
 {% endhint %}
 
 ### 1. Content resilience & merchant adaptability

@@ -26,12 +26,12 @@ Set up a fully working theme in your store with our [Quickstart guide](../develo
 
 ### Check your app before submission
 
-* Test the theme in your store on both desktop and mobile versions.
-* Ensure your app meets technical requirements for public themes.
-* Check out recommendations for building public theme apps.
+* Test the theme in your store across both desktop and mobile.
+* Self-review your theme to ensure it meets our minimum technical and design requirements: [checklist-for-public-site-themes.md](checklist-for-public-site-themes.md "mention")
+* Adjust your theme if needed to complete the checklist.
 
 ### Submit your theme
 
 With the themes ready, prepare promo materials for publishing and submit your theme to the review process performed by our Apps team: [https://portal.ecwid.com/en-us/app-readiness-form](https://portal.ecwid.com/en-us/app-readiness-form)
 
-Apps team will reach out back to you in 1-2 working days.
+Ecwid Apps team will reach back to you in 1-2 working days.

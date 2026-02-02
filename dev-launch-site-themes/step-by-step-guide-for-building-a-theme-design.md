@@ -73,13 +73,13 @@ We encourage you to build modern themes with their own mood and unique style.&#x
 
 To help you with this task, we prepared detailed recommendations on aesthetic choices and a pattern library for any visual elements you might need.
 
-Use the [Aesthetic Spectrum](resources/aesthetic-spectrum.md) + [Pattern Library](resources/pattern-library.md) for inspiration to pick the style direction: Quiet Luxury, Soft Lifestyle, Editorial, Confident DTC, Cinematic, Playful, Brutalist/Experimental, etc.
+Use the [aesthetic-spectrum.md](resources/aesthetic-spectrum.md "mention") + [pattern-library.md](resources/pattern-library.md "mention") for inspiration to pick the style direction: Quiet Luxury, Soft Lifestyle, Editorial, Confident DTC, Cinematic, Playful, Brutalist/Experimental, etc.
 
-Review references and save 2–3 key websites that match the desired mood. Working with references can be a quick and easy way to choose the good design direction for a future template.&#x20;
+Review references and save 2–3 key websites that match the desired mood. Working with references can be a quick and easy way to choose the right design direction for a future theme.&#x20;
 
 ### Step 6. Define the theme structure
 
-Outline the full template structure, for example:
+Outline the full theme structure, for example:
 
 * Hero
 * Product grid
@@ -116,7 +116,7 @@ Place structure + text + images + palette. Refine spacing, hierarchy, rhythm, an
 
 ### 10. Run a final quality check
 
-Before calling the theme complete, review it using the [Short Template Checklist](https://docs.google.com/document/d/1H9zcGZk6tVhgX9T4QtdU0y-qwZdy1NQxfNGfsVfM69E/edit?tab=t.lpues2lsnlna).
+Before calling the theme complete, review it using the [checklist-for-public-site-themes.md](checklist-for-public-site-themes.md "mention")
 
 It will help you quickly verify:
 
@@ -125,6 +125,16 @@ It will help you quickly verify:
 * color-system compatibility,
 * and basic selling ability.
 
-If all checklist points pass, the template is ready for internal review or handoff.
+If all checklist points pass, the theme is ready for internal review or handoff.
+
+#### 11. Next steps
+
+* Check out our libraries and guides for designing themes: [aesthetic-spectrum.md](resources/aesthetic-spectrum.md "mention"), [pattern-library.md](resources/pattern-library.md "mention"), [theme-quality-guidelines.md](resources/theme-quality-guidelines.md "mention")
+* Learn more about monetization of your work: [monetize-site-themes.md](monetize-site-themes.md "mention")
+* Start working on a technical realisation of your theme: [technical-guide-for-publishing-site-themes.md](technical-guide-for-publishing-site-themes.md "mention")
+* Once you feel your theme is ready, go through the [checklist-for-public-site-themes.md](checklist-for-public-site-themes.md "mention")
+* Make necessary adjustments if needed to complete the checklist. Then submit your theme to Ecwid Apps team.
+
+
 
 <br>
