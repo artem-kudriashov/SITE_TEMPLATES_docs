@@ -1,6 +1,8 @@
-# Step-by-step guide for building a theme design
+# Step-by-step guide for building a successful theme design
 
 Creating a great website theme is all about **design and aesthetics**. As a theme developer, you must refine your design system before jumping into the coding. This way, you'll get a much more consistent and successful theme in the end.&#x20;
+
+We recommend starting your journey to a published theme from this article and following all the guidelines mentioned along the way. Together, these guides empower you to build themes that are modern, visually pleasing, and successful among our users.
 
 ### Step 1. Define the vertical(s)
 

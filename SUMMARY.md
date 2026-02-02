@@ -26,7 +26,7 @@
 
 ## DEV Launch Site themes
 
-* [Step-by-step guide for building a theme design](dev-launch-site-themes/step-by-step-guide-for-building-a-theme-design.md)
+* [Step-by-step guide for building a successful theme design](dev-launch-site-themes/step-by-step-guide-for-building-a-successful-theme-design.md)
 * [Technical guide for publishing Site themes](dev-launch-site-themes/technical-guide-for-publishing-site-themes.md)
 * [Checklist for public Site themes](dev-launch-site-themes/checklist-for-public-site-themes.md)
 * [Monetize Site themes](dev-launch-site-themes/monetize-site-themes.md)

@@ -14,7 +14,7 @@ This document defines quality standards for creating truly successful Instant Si
   Themes must integrate smoothly with our automated style mapping, palette system, and layout logic.
 
 {% hint style="info" %}
-[step-by-step-guide-for-building-a-theme-design.md](../step-by-step-guide-for-building-a-theme-design.md "mention")includes minimum requirements for public themes and redirects to this guideline whenever necessary.
+[step-by-step-guide-for-building-a-successful-theme-design.md](../step-by-step-guide-for-building-a-successful-theme-design.md "mention")includes minimum requirements for public themes and redirects to this guideline whenever necessary.
 {% endhint %}
 
 ### 1. Content resilience & merchant adaptability
