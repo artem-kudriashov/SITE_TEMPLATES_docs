@@ -18,7 +18,7 @@ A one-for-all tool, where users can manage all aspects of their store: products,
 
 
 **Site theme**\
-A pre-defined configuration for the website that includes design and content settings, overall style, and even custom widgets that extend the store functionality.
+A pre-defined configuration for the website that includes design and content settings, overall style, and in some cases custom widgets that extend the store functionality.
 
 
 
