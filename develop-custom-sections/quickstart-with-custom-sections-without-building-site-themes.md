@@ -72,7 +72,7 @@ Now you are ready to start developing a section.
 
 ### Step 5. Set up a project in IDE
 
-We recommend using the free [**VS Code**](https://code.visualstudio.com/download) application with **Vue** and **TypeScript** extensions. Open the project folder there and check the file structure inside. [**Learn more about the structure**](../develop-site-themes/build-site-themes-project-structure.md)
+We recommend using the free [**VS Code**](https://code.visualstudio.com/download) application with **Vue** and **TypeScript** extensions. Open the project folder there and check the file structure inside. [**Learn more about the structure**](/broken/pages/cWOioSpFY8Nt4Z27JcY5)
 
 First, you need to set up the `crane.config.json` file, it will connect the sections you build locally with the application on Ecwid side. Open the file and copy the `client_id` and `client_secret` from your custom application to the file. Find these values at the bottom of the [**Ecwid admin > #develop-apps > Details**](https://my.ecwid.com/#develop-apps) page.
 

@@ -1,9 +1,18 @@
 # Table of contents
 
-* [Introduction to Site themes development](README.md)
+* [Introduction to developing Site themes](README.md)
 * [Site themes glossary](site-themes-glossary.md)
 
-## Develop Site themes
+## Design Site themes
+
+* [Introduction to designing themes](design-site-themes/introduction-to-designing-themes.md)
+* [Design successful site theme from scratch](design-site-themes/design-successful-site-theme-from-scratch.md)
+* [Theme Quality Guidelines](design-site-themes/theme-quality-guidelines.md)
+* [Resources](design-site-themes/resources/README.md)
+  * [Pattern Library](design-site-themes/resources/pattern-library.md)
+  * [Aesthetic Spectrum](design-site-themes/resources/aesthetic-spectrum.md)
+
+## Develop Site Themes
 
 * [Quickstart with a Site theme example](develop-site-themes/quickstart-with-a-site-theme-example.md)
 * [Deep dive into theme project structure](develop-site-themes/deep-dive-into-theme-project-structure/README.md)
@@ -15,25 +24,12 @@
   * [showcases/1.ts](develop-site-themes/deep-dive-into-theme-project-structure/showcases-1.ts.md)
   * [translations.ts](develop-site-themes/deep-dive-into-theme-project-structure/translations.ts.md)
   * [layout.ts](develop-site-themes/deep-dive-into-theme-project-structure/layout.ts.md)
-* [Build Site themes: Project structure](develop-site-themes/build-site-themes-project-structure.md)
 
 ## Launch Site themes
 
-* [Step-by-step publishing guide for Site themes](launch-site-themes/step-by-step-publishing-guide-for-site-themes.md)
+* [Technical guide for publishing Site themes](launch-site-themes/technical-guide-for-publishing-site-themes.md)
+* [Checklist for public Site themes](launch-site-themes/checklist-for-public-site-themes.md)
 * [Monetize Site themes](launch-site-themes/monetize-site-themes.md)
-* [Requirements for public Site themes](launch-site-themes/requirements-for-public-site-themes.md)
-* [Recommendations for building public Site themes](launch-site-themes/recommendations-for-building-public-site-themes.md)
-
-## DEV Launch Site themes
-
-* [Step-by-step guide for building a successful theme design](dev-launch-site-themes/step-by-step-guide-for-building-a-successful-theme-design.md)
-* [Technical guide for publishing Site themes](dev-launch-site-themes/technical-guide-for-publishing-site-themes.md)
-* [Checklist for public Site themes](dev-launch-site-themes/checklist-for-public-site-themes.md)
-* [Monetize Site themes](dev-launch-site-themes/monetize-site-themes.md)
-* [Resources](dev-launch-site-themes/resources/README.md)
-  * [Pattern Library](dev-launch-site-themes/resources/pattern-library.md)
-  * [Aesthetic Spectrum](dev-launch-site-themes/resources/aesthetic-spectrum.md)
-  * [Theme Quality Guidelines](dev-launch-site-themes/resources/theme-quality-guidelines.md)
 
 ## Develop custom sections
 
