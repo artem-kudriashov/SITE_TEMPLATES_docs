@@ -2,11 +2,6 @@
 
 In the following guide, you’ll start by signing up with Ecwid and will end up with a fully working Site theme code deployed to your test store.
 
-{% hint style="success" %}
-**Design is essential!**\
-If you plan on building a public theme, be sure to check out [Broken link](/broken/pages/Zvukm7MAGL6ooitMTmpY "mention") section first!
-{% endhint %}
-
 You need a good knowledge of **Typescript** and its **Vue** framework to build themes. Site themes are built locally and then deployed to the Ecwid environment. After deploying, you can find and install your theme in the website Editor. To apply any deployed changes, you need to reinstall the theme app.
 
 ### Step 1. Sign up with Ecwid
